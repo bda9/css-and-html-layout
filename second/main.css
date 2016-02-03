@@ -1,0 +1,40 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.left-mid {
+  background-color: #4A90E2;
+  width: 33%;
+  height: 100vh;
+  float: left;
+}
+.mid-mid {
+  background-color: #50E3C2;
+  width: 33%;
+  height: 100vh;
+  float: left;
+}
+.right-mid {
+  background-color: #B8E986;
+  width: 33%;
+  height: 100vh;
+  float: left;
+
+}
+.image-placeholder {
+
+  background-color: #D0021B;
+  width: 33%;
+  height: 22%;
+  z-index: 10;
+  position:absolute;
+  bottom:0;
+  right: inherit;
+}
+.image-placeholder p {
+  text-align: center;
+  color: white;
+  font-family: arial;
+  margin-top: 48px;
+}

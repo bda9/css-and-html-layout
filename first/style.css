@@ -1,0 +1,26 @@
+.main {
+  background-color: #EFEFEF
+  }
+.header-top {
+  background-color: #444444;
+  width: 100%;
+  height: 163px;
+}
+.left-mid {
+  background-color: #D8D8D8;
+  width: 10em;
+  height: 814px;
+  float: left;
+}
+.right-mid {
+  background-color: #D8D8D8;
+  width: 10em;
+  height: 814px;
+  float: right;
+}
+.footer-bot {
+  background-color: #222222;
+  height: 78px;
+  text-align: center;
+  margin-top: 736px;
+}
