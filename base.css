@@ -1,9 +1,11 @@
+/* below is an example from class on how to make boxes perform correctly
 html {
   box-sizing: border-box;
 }
 *, *:before, *after {
   box-sizing: inherit;
 }
+  */
 .main-container {
   background: #ccc;
   width: 100%;
